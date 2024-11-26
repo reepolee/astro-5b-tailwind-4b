@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-*: initial;
+	/*
+
+	--font-*: initial;
+	--text-*: initial;
+	--font-weight-*: initial;
+	--tracking-*: initial;
+	--leading-*: initial;
+	--spacing-*: initial; 
+	
+	*/
+	--breakpoint-*: initial;
+	--container-*: initial;
+	--radius-*: initial;
+	--shadow-*: initial;
+	--inset-shadow-*: initial;
+	--drop-shadow-*: initial;
+	--ease-*: initial;
+	--animate-*: initial;
+
+	--color-white: white;
+	--color-black: black;
+	--color-reepolee-500: #b40000;
+}
